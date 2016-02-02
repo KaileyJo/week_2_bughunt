@@ -1,0 +1,21 @@
+/*li {
+	list-style-type: none;
+}*/
+
+li {
+	text-align: center;
+	color: DarkSlateGray;
+	font-size: 18px;
+	line-height: 2;
+	font-weight: bold;
+	width: 75%;
+	padding-top: 15px;
+	margin: 10px auto;
+}
+
+ul {
+	background-color: DarkSeaGreen;
+	margin: auto;
+	width: 35%;
+	height: 250px;
+}
